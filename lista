@@ -13,3 +13,5 @@ https://60ed5b6d0df78.streamlock.net:1936/telemax/telemax/playlist.m3u8
 https://5e50264bd6766.streamlock.net/iert/videoiert/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="⚽️ Tv Mar la paz
 https://5ca3e84a76d30.streamlock.net/tvmarvallarta/smil:tvmarvallarta.smil/chunklist_w1488383989_b1428000_sleng.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="⚽️ Canal 66 Mxli
+https://60417ddeaf0d9.streamlock.net/canal66/smil:canal66.smil/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjIvMjAyMiA1OjU1OjI4IEFNJmhhc2hfdmFsdWU9TEVhTExUbHBGWG5KeDhOdDRPMVBIdz09JnZhbGlkbWludXRlcz01JmlkPQ==
