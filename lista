@@ -17,3 +17,158 @@ https://5ca3e84a76d30.streamlock.net/tvmarvallarta/smil:tvmarvallarta.smil/chunk
 https://60417ddeaf0d9.streamlock.net/canal66/smil:canal66.smil/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjIvMjAyMiA1OjU1OjI4IEFNJmhhc2hfdmFsdWU9TEVhTExUbHBGWG5KeDhOdDRPMVBIdz09JnZhbGlkbWludXRlcz01JmlkPQ==
 #EXTINF:-1 tvg-id="" tvg-name="⚽️ Canal 10 Chiapas
 https://5ca9af4645e15.streamlock.net/chiapas/videochiapas/chunklist_w307061616.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="LATIN: FORO TV" tvg-logo="" group-title="US LATIN",LATIN: FORO TV
+http://www.pandar.info:25461/02025089073345/6443860912/94982
+#EXTINF:-1 tvg-ID="" tvg-name="LATIN: TDN" tvg-logo="" group-title="US LATIN",LATIN: TDN
+http://www.pandar.info:25461/02025089073345/6443860912/94983
+#EXTINF:-1 tvg-ID="" tvg-name="LATIN: HOLA TV" tvg-logo="" group-title="US LATIN",LATIN: HOLA TV
+http://www.pandar.info:25461/02025089073345/6443860912/94984
+#EXTINF:-1 tvg-ID="" tvg-name="LATIN: CINE LATINO" tvg-logo="" group-title="US LATIN",LATIN: CINE LATINO
+http://www.pandar.info:25461/02025089073345/6443860912/94985
+#EXTINF:-1 tvg-ID="" tvg-name="LATIN: LIFETIME" tvg-logo="" group-title="US LATIN",LATIN: LIFETIME
+http://www.pandar.info:25461/02025089073345/6443860912/94986
+#EXTINF:-1 tvg-ID="" tvg-name="LATIN: MILENIO TV" tvg-logo="" group-title="US LATIN",LATIN: MILENIO TV
+http://www.pandar.info:25461/02025089073345/6443860912/94987
+#EXTINF:-1 tvg-ID="" tvg-name="LATIN: ARTS" tvg-logo="" group-title="US LATIN",LATIN: ARTS
+http://www.pandar.info:25461/02025089073345/6443860912/94988
+#EXTINF:-1 tvg-ID="" tvg-name="LATIN: 52MX" tvg-logo="" group-title="US LATIN",LATIN: 52MX
+http://www.pandar.info:25461/02025089073345/6443860912/94989
+#EXTINF:-1 tvg-ID="" tvg-name="LATIN: AMERICATEVE" tvg-logo="" group-title="US LATIN",LATIN: AMERICATEVE
+http://www.pandar.info:25461/02025089073345/6443860912/94990
+#EXTINF:-1 tvg-ID="" tvg-name="LATIN: GLITZ" tvg-logo="" group-title="US LATIN",LATIN: GLITZ
+http://www.pandar.info:25461/02025089073345/6443860912/94991
+#EXTINF:-1 tvg-ID="" tvg-name="LATIN: TBS" tvg-logo="" group-title="US LATIN",LATIN: TBS
+http://www.pandar.info:25461/02025089073345/6443860912/94992
+#EXTINF:-1 tvg-ID="" tvg-name="LATIN: TELEMUNDO INTERNACIONAL" tvg-logo="" group-title="US LATIN",LATIN: TELEMUNDO INTERNACIONAL
+http://www.pandar.info:25461/02025089073345/6443860912/94993
+#EXTINF:-1 tvg-ID="" tvg-name="LATIN: UNIMAS" tvg-logo="" group-title="US LATIN",LATIN: UNIMAS
+http://www.pandar.info:25461/02025089073345/6443860912/94994
+#EXTINF:-1 tvg-ID="" tvg-name="LATIN: ISAT" tvg-logo="" group-title="US LATIN",LATIN: ISAT
+http://www.pandar.info:25461/02025089073345/6443860912/94995
+#EXTINF:-1 tvg-ID="" tvg-name="LATIN: PASIONES" tvg-logo="" group-title="US LATIN",LATIN: PASIONES
+http://www.pandar.info:25461/02025089073345/6443860912/94996
+#EXTINF:-1 tvg-ID="" tvg-name="===== LATIN MOVIES =====" tvg-logo="" group-title="US LATIN",===== LATIN MOVIES =====
+http://www.pandar.info:25461/02025089073345/6443860912/94997
+#EXTINF:-1 tvg-ID="" tvg-name="LATIN: HBO" tvg-logo="" group-title="US LATIN",LATIN: HBO
+http://www.pandar.info:25461/02025089073345/6443860912/94998
+#EXTINF:-1 tvg-ID="" tvg-name="LATIN: HBO 2" tvg-logo="" group-title="US LATIN",LATIN: HBO 2
+http://www.pandar.info:25461/02025089073345/6443860912/94999
+#EXTINF:-1 tvg-ID="" tvg-name="LATIN: HBO PLUS" tvg-logo="" group-title="US LATIN",LATIN: HBO PLUS
+http://www.pandar.info:25461/02025089073345/6443860912/95000
+#EXTINF:-1 tvg-ID="" tvg-name="LATIN: HBO FAMILY" tvg-logo="" group-title="US LATIN",LATIN: HBO FAMILY
+http://www.pandar.info:25461/02025089073345/6443860912/95001
+#EXTINF:-1 tvg-ID="" tvg-name="LATIN: HBO SIGNATURE" tvg-logo="" group-title="US LATIN",LATIN: HBO SIGNATURE
+http://www.pandar.info:25461/02025089073345/6443860912/95002
+#EXTINF:-1 tvg-ID="" tvg-name="LATIN: HBO ESTE" tvg-logo="" group-title="US LATIN",LATIN: HBO ESTE
+http://www.pandar.info:25461/02025089073345/6443860912/95003
+#EXTINF:-1 tvg-ID="" tvg-name="LATIN: FOX PREMIUM MOVIES" tvg-logo="" group-title="US LATIN",LATIN: FOX PREMIUM MOVIES
+http://www.pandar.info:25461/02025089073345/6443860912/95004
+#EXTINF:-1 tvg-ID="" tvg-name="LATIN: FOX PREMIUM CINEMA" tvg-logo="" group-title="US LATIN",LATIN: FOX PREMIUM CINEMA
+http://www.pandar.info:25461/02025089073345/6443860912/95005
+#EXTINF:-1 tvg-ID="" tvg-name="LATIN: FOX PREMIUM ACTION" tvg-logo="" group-title="US LATIN",LATIN: FOX PREMIUM ACTION
+http://www.pandar.info:25461/02025089073345/6443860912/95006
+#EXTINF:-1 tvg-ID="" tvg-name="LATIN: FOX PREMIUM COMEDY" tvg-logo="" group-title="US LATIN",LATIN: FOX PREMIUM COMEDY
+http://www.pandar.info:25461/02025089073345/6443860912/95007
+#EXTINF:-1 tvg-ID="" tvg-name="LATIN: FOX PREMIUM FAMILY" tvg-logo="" group-title="US LATIN",LATIN: FOX PREMIUM FAMILY
+http://www.pandar.info:25461/02025089073345/6443860912/95008
+#EXTINF:-1 tvg-ID="" tvg-name="LATIN: FOX PREMIUM SERIES" tvg-logo="" group-title="US LATIN",LATIN: FOX PREMIUM SERIES
+http://www.pandar.info:25461/02025089073345/6443860912/95009
+#EXTINF:-1 tvg-ID="" tvg-name="LATIN: UNIVISION" tvg-logo="" group-title="US LATIN",LATIN: UNIVISION
+http://www.pandar.info:25461/02025089073345/6443860912/95010
+#EXTINF:-1 tvg-ID="" tvg-name="LATIN: UNIVISION TELENOVELAS" tvg-logo="" group-title="US LATIN",LATIN: UNIVISION TELENOVELAS
+http://www.pandar.info:25461/02025089073345/6443860912/95011
+#EXTINF:-1 tvg-ID="" tvg-name="LATIN: TELENOVELAS" tvg-logo="" group-title="US LATIN",LATIN: TELENOVELAS
+http://www.pandar.info:25461/02025089073345/6443860912/95012
+#EXTINF:-1 tvg-ID="" tvg-name="LATIN: UNICABLE" tvg-logo="" group-title="US LATIN",LATIN: UNICABLE
+http://www.pandar.info:25461/02025089073345/6443860912/95013
+#EXTINF:-1 tvg-ID="" tvg-name="LATIN: TELEMUNDO" tvg-logo="" group-title="US LATIN",LATIN: TELEMUNDO
+http://www.pandar.info:25461/02025089073345/6443860912/95014
+#EXTINF:-1 tvg-ID="" tvg-name="LATIN: TLC" tvg-logo="" group-title="US LATIN",LATIN: TLC
+http://www.pandar.info:25461/02025089073345/6443860912/95015
+#EXTINF:-1 tvg-ID="" tvg-name="LATIN: SYFY" tvg-logo="" group-title="US LATIN",LATIN: SYFY
+http://www.pandar.info:25461/02025089073345/6443860912/95016
+#EXTINF:-1 tvg-ID="" tvg-name="LATIN: FX" tvg-logo="" group-title="US LATIN",LATIN: FX
+http://www.pandar.info:25461/02025089073345/6443860912/95017
+#EXTINF:-1 tvg-ID="" tvg-name="LATIN: FOX" tvg-logo="" group-title="US LATIN",LATIN: FOX
+http://www.pandar.info:25461/02025089073345/6443860912/95018
+#EXTINF:-1 tvg-ID="" tvg-name="LATIN: FOX ACTION" tvg-logo="" group-title="US LATIN",LATIN: FOX ACTION
+http://www.pandar.info:25461/02025089073345/6443860912/95019
+#EXTINF:-1 tvg-ID="" tvg-name="LATIN: FOX CINEMA" tvg-logo="" group-title="US LATIN",LATIN: FOX CINEMA
+http://www.pandar.info:25461/02025089073345/6443860912/95020
+#EXTINF:-1 tvg-ID="" tvg-name="LATIN: FOX CLASSIC" tvg-logo="" group-title="US LATIN",LATIN: FOX CLASSIC
+http://www.pandar.info:25461/02025089073345/6443860912/95021
+#EXTINF:-1 tvg-ID="" tvg-name="LATIN: FOX LIFE" tvg-logo="" group-title="US LATIN",LATIN: FOX LIFE
+http://www.pandar.info:25461/02025089073345/6443860912/95022
+#EXTINF:-1 tvg-ID="" tvg-name="LATIN: FOX MOVIES" tvg-logo="" group-title="US LATIN",LATIN: FOX MOVIES
+http://www.pandar.info:25461/02025089073345/6443860912/95023
+#EXTINF:-1 tvg-ID="" tvg-name="LATIN: AMC" tvg-logo="" group-title="US LATIN",LATIN: AMC
+http://www.pandar.info:25461/02025089073345/6443860912/95024
+#EXTINF:-1 tvg-ID="" tvg-name="LATIN: AXN" tvg-logo="" group-title="US LATIN",LATIN: AXN
+http://www.pandar.info:25461/02025089073345/6443860912/95025
+#EXTINF:-1 tvg-ID="" tvg-name="LATIN: GALA TV" tvg-logo="" group-title="US LATIN",LATIN: GALA TV
+http://www.pandar.info:25461/02025089073345/6443860912/95026
+#EXTINF:-1 tvg-ID="" tvg-name="LATIN: UNIVERSAL CHANNEL" tvg-logo="" group-title="US LATIN",LATIN: UNIVERSAL CHANNEL
+http://www.pandar.info:25461/02025089073345/6443860912/95027
+#EXTINF:-1 tvg-ID="" tvg-name="LATIN: AZ UNO" tvg-logo="" group-title="US LATIN",LATIN: AZ UNO
+http://www.pandar.info:25461/02025089073345/6443860912/95028
+#EXTINF:-1 tvg-ID="" tvg-name="LATIN: AZ MAS" tvg-logo="" group-title="US LATIN",LATIN: AZ MAS
+http://www.pandar.info:25461/02025089073345/6443860912/95029
+#EXTINF:-1 tvg-ID="" tvg-name="LATIN: AZTECA 7" tvg-logo="" group-title="US LATIN",LATIN: AZTECA 7
+http://www.pandar.info:25461/02025089073345/6443860912/95030
+#EXTINF:-1 tvg-ID="" tvg-name="LATIN: AZTECA CINEMA" tvg-logo="" group-title="US LATIN",LATIN: AZTECA CINEMA
+http://www.pandar.info:25461/02025089073345/6443860912/95031
+#EXTINF:-1 tvg-ID="" tvg-name="LATIN: AZTECA CORAZON" tvg-logo="" group-title="US LATIN",LATIN: AZTECA CORAZON
+http://www.pandar.info:25461/02025089073345/6443860912/95032
+#EXTINF:-1 tvg-ID="" tvg-name="LATIN: AZTECA CLIC" tvg-logo="" group-title="US LATIN",LATIN: AZTECA CLIC
+http://www.pandar.info:25461/02025089073345/6443860912/95033
+#EXTINF:-1 tvg-ID="" tvg-name="LATIN: CINE CANAL" tvg-logo="" group-title="US LATIN",LATIN: CINE CANAL
+http://www.pandar.info:25461/02025089073345/6443860912/95034
+#EXTINF:-1 tvg-ID="" tvg-name="LATIN: MULTIPREMIER" tvg-logo="" group-title="US LATIN",LATIN: MULTIPREMIER
+http://www.pandar.info:25461/02025089073345/6443860912/95035
+#EXTINF:-1 tvg-ID="" tvg-name="LATIN: DHE" tvg-logo="" group-title="US LATIN",LATIN: DHE
+http://www.pandar.info:25461/02025089073345/6443860912/95036
+#EXTINF:-1 tvg-ID="" tvg-name="LATIN: WARNER CHANNEL" tvg-logo="" group-title="US LATIN",LATIN: WARNER CHANNEL
+http://www.pandar.info:25461/02025089073345/6443860912/95037
+#EXTINF:-1 tvg-ID="" tvg-name="LATIN: CLARO" tvg-logo="" group-title="US LATIN",LATIN: CLARO
+http://www.pandar.info:25461/02025089073345/6443860912/95038
+#EXTINF:-1 tvg-ID="" tvg-name="LATIN: CLARO CINEMA" tvg-logo="" group-title="US LATIN",LATIN: CLARO CINEMA
+http://www.pandar.info:25461/02025089073345/6443860912/95039
+#EXTINF:-1 tvg-ID="" tvg-name="LATIN: GOLDEN PREMIER" tvg-logo="" group-title="US LATIN",LATIN: GOLDEN PREMIER
+http://www.pandar.info:25461/02025089073345/6443860912/95040
+#EXTINF:-1 tvg-ID="" tvg-name="LATIN: PARAMOUNT" tvg-logo="" group-title="US LATIN",LATIN: PARAMOUNT
+http://www.pandar.info:25461/02025089073345/6443860912/95041
+#EXTINF:-1 tvg-ID="" tvg-name="LATIN: SONY" tvg-logo="" group-title="US LATIN",LATIN: SONY
+http://www.pandar.info:25461/02025089073345/6443860912/95042
+#EXTINF:-1 tvg-ID="" tvg-name="LATIN: SPACE" tvg-logo="" group-title="US LATIN",LATIN: SPACE
+http://www.pandar.info:25461/02025089073345/6443860912/95043
+#EXTINF:-1 tvg-ID="" tvg-name="LATIN: STUDIO UNIVERSAL" tvg-logo="" group-title="US LATIN",LATIN: STUDIO UNIVERSAL
+http://www.pandar.info:25461/02025089073345/6443860912/95044
+#EXTINF:-1 tvg-ID="" tvg-name="LATIN: TCM" tvg-logo="" group-title="US LATIN",LATIN: TCM
+http://www.pandar.info:25461/02025089073345/6443860912/95045
+#EXTINF:-1 tvg-ID="" tvg-name="LATIN: TNT SERIES" tvg-logo="" group-title="US LATIN",LATIN: TNT SERIES
+http://www.pandar.info:25461/02025089073345/6443860912/95046
+#EXTINF:-1 tvg-ID="" tvg-name="LATIN: TNT" tvg-logo="" group-title="US LATIN",LATIN: TNT
+http://www.pandar.info:25461/02025089073345/6443860912/95047
+#EXTINF:-1 tvg-ID="" tvg-name="LATIN: GOLDEN EDGE" tvg-logo="" group-title="US LATIN",LATIN: GOLDEN EDGE
+http://www.pandar.info:25461/02025089073345/6443860912/95048
+#EXTINF:-1 tvg-ID="" tvg-name="LATIN: GOLDEN" tvg-logo="" group-title="US LATIN",LATIN: GOLDEN
+http://www.pandar.info:25461/02025089073345/6443860912/95049
+#EXTINF:-1 tvg-ID="" tvg-name="LATIN: MAX UP" tvg-logo="" group-title="US LATIN",LATIN: MAX UP
+http://www.pandar.info:25461/02025089073345/6443860912/95050
+#EXTINF:-1 tvg-ID="" tvg-name="===== LATIN ENTERTAINMENTS =====" tvg-logo="" group-title="US LATIN",===== LATIN ENTERTAINMENTS =====
+http://www.pandar.info:25461/02025089073345/6443860912/95051
+#EXTINF:-1 tvg-ID="" tvg-name="LATIN: CINEMA DINAMITA" tvg-logo="" group-title="US LATIN",LATIN: CINEMA DINAMITA
+http://www.pandar.info:25461/02025089073345/6443860912/95052
+#EXTINF:-1 tvg-ID="" tvg-name="LATIN: A&E" tvg-logo="" group-title="US LATIN",LATIN: A&E
+http://www.pandar.info:25461/02025089073345/6443860912/95053
+#EXTINF:-1 tvg-ID="" tvg-name="LATIN: MASCHIC" tvg-logo="" group-title="US LATIN",LATIN: MASCHIC
+http://www.pandar.info:25461/02025089073345/6443860912/95054
+#EXTINF:-1 tvg-ID="" tvg-name="LATIN: DISTRITO COMEDIA" tvg-logo="" group-title="US LATIN",LATIN: DISTRITO COMEDIA
+http://www.pandar.info:25461/02025089073345/6443860912/95055
+#EXTINF:-1 tvg-ID="" tvg-name="LATIN: E! ENTERTAINMENT" tvg-logo="" group-title="US LATIN",LATIN: E! ENTERTAINMENT
+http://www.pandar.info:25461/02025089073345/6443860912/95056
+#EXTINF:-1 tvg-ID="" tvg-name="LATIN: TRU TV" tvg-logo="" group-title="US LATIN",LATIN: TRU TV
+http://www.pandar.info:25461/02025089073345/6443860912/95057
+#EXTINF:-1 tvg-ID="" tvg-name="LATIN: GOURMET" tvg-logo="" group-title="US LATIN",LATIN: GOURMET
+http://www.pandar.info:25461/02025089073345/6443860912/95058
+
