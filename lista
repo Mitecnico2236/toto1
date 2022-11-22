@@ -11,3 +11,5 @@ https://video-weaver.dfw02.hls.ttvnw.net/v1/playlist/Cu0Egiqg-7yY3gjdBCV-xDuFY8u
 https://60ed5b6d0df78.streamlock.net:1936/telemax/telemax/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="⚽️ Tele BCS
 https://5e50264bd6766.streamlock.net/iert/videoiert/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="⚽️ Tv Mar la paz
+https://5ca3e84a76d30.streamlock.net/tvmarvallarta/smil:tvmarvallarta.smil/chunklist_w1488383989_b1428000_sleng.m3u8
