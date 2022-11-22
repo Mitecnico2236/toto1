@@ -4,4 +4,4 @@ https://usher.ttvnw.net/api/channel/hls/sintesis_tv.m3u8?acmb=e30%3D&allow_sourc
 #EXTINF:-1 tvg-id="" tvg-name="⚽️ Nayarit
 https://60417ddeaf0d9.streamlock.net/ntv/videontv/chunklist_w109911948.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjIvMjAyMiA0OjIzOjQ3IEFNJmhhc2hfdmFsdWU9d09iUytPck5PVEQveTZ5K3pRdzRkQT09JnZhbGlkbWludXRlcz0xMCZpZD0%3D
 #EXTINF:-1 tvg-id="" tvg-name="⚽️ PSN
-https://playback2.akamaized.net/streams/27053071_8131710_lsi9sia5b7es0dccpw9_1/master.m3u8?dw=14400&hdnts=exp=1669092923~acl=/streams/27053071_8131710_lsi9sia5b7es0dccpw9_1/master.m3u8*~hmac=ff40e0131830f9948c500530f23ef68cc23d9e683e221161b706e6c9d401dea3
+https://player-api.new.livestream.com/accounts/27053071/events/8131710/broadcasts/233867330.secure.m3u8?dw=14400&hdnea=st%3D1669092621~exp%3D1669094421~acl%3D%2Fi%2F27053071_8131710_lsi9sia5b7es0dccpw9_1%40408352%2F%2A~hmac%3Deb1f3e0dcffecdf3876ad2bb3cf7606b61f93cf7e5b20585705521d80946d886&token=637c5639_ebf099321fbb95b01341740dd4cbe7f7f00471ed
