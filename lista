@@ -23,3 +23,42 @@ https://5ca3e84a76d30.streamlock.net/gpacifico4/smil:mazatlan.smil/chunklist_w14
 https://5ca3e84a76d30.streamlock.net/gpacifico3/smil:obregon.smil/chunklist_w2067013802_b1428000_sleng.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="LATIN: FORO TV" tvg-logo="" group-title="US LATIN",LATIN: Canal 14
 https://60ed5b6d0df78.streamlock.net:1936/segundo/segundo/chunklist_w363598172.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="LATIN: FORO TV" tvg-logo="" group-title="US LATIN",LATIN: Camaras NY
+https://hd-auth.skylinewebcams.com/live.m3u8?a=2a93o9p1k9pd5usufulq7h3a74
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/2EsFuSR.png" group-title="USA",NYC - New York - Midtown Skyline [M3U8]
+http://video3.earthcam.com:1935/fecnetwork/5321.flv/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/2EsFuSR.png" group-title="USA",NYC - New York - 5th Avenue [M3U8]
+http://video3.earthcam.com:1935/fecnetwork/fridays_5th.flv/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/2EsFuSR.png" group-title="USA",NYC - New York - Brooklyn Bridge [M3U8]
+http://video3.earthcam.com:1935/fecnetwork/3983.flv/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/2EsFuSR.png" group-title="USA",NYC - New York - Charging Bull [M3U8]
+http://video3.earthcam.com:1935/fecnetwork/chargingbull.flv/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/2EsFuSR.png" group-title="USA",NYC - New York - Columbus Circle [M3U8]
+http://video3.earthcam.com:1935/fecnetwork/6427.flv/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/2EsFuSR.png" group-title="USA",NYC - New York - High Line [M3U8]
+http://video3.earthcam.com:1935/fecnetwork/7384.flv/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/2EsFuSR.png" group-title="USA",NYC - New York - Times Square [M3U8]
+http://video3.earthcam.com:1935/fecnetwork/hdtimes11.flv/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/2EsFuSR.png" group-title="USA",NYC - New York - Times Square (47th + Broadway) [M3U8]
+http://video3.earthcam.com:1935/fecnetwork/hdtimes10.flv/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/2EsFuSR.png" group-title="USA",NYC - New York - Times Square (Street Cam) [M3U8]
+http://video3.earthcam.com:1935/fecnetwork/9974.flv/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/2EsFuSR.png" group-title="USA",NYC - New York - Times Square (Crossroads) [M3U8]
+http://video3.earthcam.com:1935/fecnetwork/4717.flv/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/2EsFuSR.png" group-title="USA",NYC - New York - Times Square (South View) [M3U8]
+http://video3.earthcam.com:1935/fecnetwork/4017timessquare.flv/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/2EsFuSR.png" group-title="USA",Jamestown - New York
+http://143.67.94.18:80/mjpg/video.mjpg
+
