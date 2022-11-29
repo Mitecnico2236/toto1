@@ -23,8 +23,17 @@ https://5ca3e84a76d30.streamlock.net/gpacifico4/smil:mazatlan.smil/chunklist_w14
 https://5ca3e84a76d30.streamlock.net/gpacifico3/smil:obregon.smil/chunklist_w2067013802_b1428000_sleng.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="LATIN: FORO TV" tvg-logo="" group-title="US LATIN",LATIN: Canal 14
 https://60ed5b6d0df78.streamlock.net:1936/segundo/segundo/chunklist_w363598172.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="LATIN: FORO TV" tvg-logo="" group-title="US LATIN",LATIN: Camaras NY
-https://hd-auth.skylinewebcams.com/live.m3u8?a=2a93o9p1k9pd5usufulq7h3a74
-
-
-
+EXTINF:-1 tvg-id="" tvg-name="MULTIMEDIOS MONTERREY" tvg-logo="https://www.lyngsat.com/logo/tv/mm/multimedios_plus.png" group-title="MEXICO",MULTIMEDIOS MONTERREY
+http://allstar.is-by.us:25461/Da72vA84/ctxgYF4XR9qw/59124
+#EXTINF:-1 tvg-id="" tvg-name="TELEVISA GUADALAJARA" tvg-logo="https://www.lyngsat.com/logo/corp/tt/televisa_mx_networks.png" group-title="MEXICO",TELEVISA GUADALAJARA
+http://allstar.is-by.us:25461/Da72vA84/ctxgYF4XR9qw/59125
+#EXTINF:-1 tvg-id="" tvg-name="TELEVISA MEXICALI" tvg-logo="https://www.lyngsat.com/logo/corp/tt/televisa_mx_networks.png" group-title="MEXICO",TELEVISA MEXICALI
+http://allstar.is-by.us:25461/Da72vA84/ctxgYF4XR9qw/59126
+#EXTINF:-1 tvg-id="" tvg-name="TELEVISA TIJUANA" tvg-logo="https://www.lyngsat.com/logo/corp/tt/televisa_mx_networks.png" group-title="MEXICO",TELEVISA TIJUANA
+http://allstar.is-by.us:25461/Da72vA84/ctxgYF4XR9qw/59127
+#EXTINF:-1 tvg-id="" tvg-name="AZTECA UNO FHD (KA)" tvg-logo="https://www.lyngsat.com/logo/tv/aa/azteca-uno-mx.png" group-title="MEXICO",AZTECA UNO FHD (KA)
+http://allstar.is-by.us:25461/Da72vA84/ctxgYF4XR9qw/59128
+#EXTINF:-1 tvg-id="" tvg-name="a+" tvg-logo="https://www.lyngsat.com/logo/tv/cc/canalplus_fr_a_plus.png" group-title="MEXICO",a+
+http://allstar.is-by.us:25461/Da72vA84/ctxgYF4XR9qw/59129
+#EXTINF:-1 tvg-id="" tvg-name="AZTECA UNO -2" tvg-logo="https://www.lyngsat.com/logo/tv/aa/azteca-uno-mx.png" group-title="MEXICO",AZTECA UNO -2
+http://allstar.is-by.us:25461/Da72vA84/ctxgYF4XR9qw/59130
