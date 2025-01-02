@@ -23,9 +23,8 @@ https://www.youtube.com/watch?v=m6JFVbMfjVg/live
 #EXTINF:-1 tvg-id="CNR Rosarito" tvg-name="MX: CNR Rosarito " tvg-logo="http://img.tvcl.xyz/usa/nbc.png" group-title="MX",MX: CNR Rosarito
 https://www.youtube.com/watch?v=NYcgzUib_DU/live
 
-#EXTINF:-1 tvg-id="Nayarit en vivo" tvg-name="MX: CNR Rosarito " tvg-logo="http://img.tvcl.xyz/usa/nbc.png" group-title="MX",MX: Nayarit en vivo
-https://5f2c1b0d880e5.streamlock.net/ntv/videontv/chunklist_w912327296.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yLzIwMjUgNDowNToxNiBBTSZoYXNoX3ZhbHVlPUNTSS9CYW5DdG9sZ0s4K0gvR2U5NUE9PSZ2YWxpZG1pbnV0ZXM9MTAmaWQ9
-
+#EXTINF:-1 tvg-id="Nayarit en vivo" tvg-name="MX: Nayarit en vivo" tvg-logo="http://img.tvcl.xyz/usa/nbc.png" group-title="MX",MX: Nayarit en vivo
+https://5f2c1b0d880e5.streamlock.net/ntv/videontv/chunklist_w534898380.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yLzIwMjUgNDo0OTowNiBBTSZoYXNoX3ZhbHVlPWpiYmZoQ2pJWEkvTnQzVDBFRENzSEE9PSZ2YWxpZG1pbnV0ZXM9MTAmaWQ9
 #EXTINF:-1 tvg-id="ISS" tvg-name="MX: ISS " tvg-logo="http://img.tvcl.xyz/usa/nbc.png" group-title="MX",MX: ISS
 https://www.youtube.com/watch?v=xRPjKQtRXR8/live
 
