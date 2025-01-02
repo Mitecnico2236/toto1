@@ -1,7 +1,14 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="NBCKING.us" tvg-name="US: NBC Los Angeles HD" tvg-logo="http://img.tvcl.xyz/usa/nbc.png" group-title="USA",US: NBC Los Angeles HD
-http://hidra.live:80/Scarso/123456/43822
+#EXTINF:-1 tvg-id="Televisa" tvg-name="MX: Televisa " tvg-logo="http://img.tvcl.xyz/usa/nbc.png" group-title="MX",US: Televisa Tijuana
+https://www.youtube.com/watch?v=E23T-VKC2zs/live
+
+
+#EXTINF:-1 tvg-id="Televisa" tvg-name="MX: Televisa " tvg-logo="http://img.tvcl.xyz/usa/nbc.png" group-title="MX",US: Televisa Ensenada
+https://www.youtube.com/watch?v=yo4OV2z6v-g
+
+
+
 
 
 #EXTINF:-1 tvg-ID="" tvg-name="LATIN: FORO TV" tvg-logo="" group-title="US LATIN",LATIN: Sintesis TV
