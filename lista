@@ -1,14 +1,27 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="Televisa" tvg-name="MX: Televisa " tvg-logo="http://img.tvcl.xyz/usa/nbc.png" group-title="MX",US: Televisa Tijuana
+#EXTINF:-1 tvg-id="Televisa" tvg-name="MX: Televisa " tvg-logo="http://img.tvcl.xyz/usa/nbc.png" group-title="MX",MX: Televisa Tijuana
 https://www.youtube.com/watch?v=E23T-VKC2zs/live
 
 
-#EXTINF:-1 tvg-id="Televisa" tvg-name="MX: Televisa " tvg-logo="http://img.tvcl.xyz/usa/nbc.png" group-title="MX",US: Televisa Ensenada
-https://www.youtube.com/watch?v=yo4OV2z6v-g
+#EXTINF:-1 tvg-id="Televisa" tvg-name="MX: Televisa " tvg-logo="http://img.tvcl.xyz/usa/nbc.png" group-title="MX",MX: Televisa Ensenada
+https://www.youtube.com/watch?v=yo4OV2z6v-g/live
+
+#EXTINF:-1 tvg-id="Televisa" tvg-name="MX: Televisa " tvg-logo="http://img.tvcl.xyz/usa/nbc.png" group-title="MX",MX: Televisa Mexicali
+https://www.youtube.com/watch?v=qz30IJ-ahxA/live
 
 
+#EXTINF:-1 tvg-id="Televisa" tvg-name="MX: Televisa " tvg-logo="http://img.tvcl.xyz/usa/nbc.png" group-title="MX",MX: Televisa Sonora
+https://www.youtube.com/watch?v=E6CXTmsKd7U/live
 
+#EXTINF:-1 tvg-id="Televisa" tvg-name="MX: Televisa " tvg-logo="http://img.tvcl.xyz/usa/nbc.png" group-title="MX",MX: Televisa Sinaloa
+https://www.youtube.com/watch?v=_R-D0zvYgUQ/live
+
+#EXTINF:-1 tvg-id="Televisa" tvg-name="MX: Televisa " tvg-logo="http://img.tvcl.xyz/usa/nbc.png" group-title="MX",MX: Televisa quintana roo
+https://www.youtube.com/watch?v=m6JFVbMfjVg/live
+
+#EXTINF:-1 tvg-id="CNR Rosarito" tvg-name="MX: CNR Rosarito " tvg-logo="http://img.tvcl.xyz/usa/nbc.png" group-title="MX",MX: CNR Rosarito
+https://www.youtube.com/watch?v=NYcgzUib_DU/live
 
 
 #EXTINF:-1 tvg-ID="" tvg-name="LATIN: FORO TV" tvg-logo="" group-title="US LATIN",LATIN: Sintesis TV
